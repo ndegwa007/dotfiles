@@ -1,1 +1,1 @@
-###  Simple repo where i store dotfiles and configs
+Simple storage repository for dotfiles and configs
